@@ -101,6 +101,7 @@ networks:
     name: app-network
 
 ```
+![image](https://github.com/user-attachments/assets/955f1108-6028-4cae-838b-1e6f018d76ba)
 
 ## 🎯 *Fonctionnalités*:
 - Module d’Authentification Utilisateur : Authentification et Autorisation des utilisateurs avec Spring Boot et React. Le système d’inscription et de connexion a été ajouté pour que seuls les utilisateurs authentifiés (Administrateur ou Client) puissent effectuer leurs fonctionnalités.
