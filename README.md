@@ -103,6 +103,10 @@ networks:
 ```
 ![image](https://github.com/user-attachments/assets/955f1108-6028-4cae-838b-1e6f018d76ba)
 
+## *Architecture du Projet*:
+![image](https://github.com/user-attachments/assets/6530ea55-47e0-456b-aa2f-457cfac35cfa)
+
+
 ## 🎯 *Fonctionnalités*:
 - Module d’Authentification Utilisateur : Authentification et Autorisation des utilisateurs avec Spring Boot et React. Le système d’inscription et de connexion a été ajouté pour que seuls les utilisateurs authentifiés (Administrateur ou Client) puissent effectuer leurs fonctionnalités.
 
